@@ -41,6 +41,7 @@ Typing `youtube` followed by a search query will show the results for the query.
 If you find yourself having a hard time remembering the commands, remember that they will show up in autocompletion if you type `yt`.
 
 ## Contributors
+- [@willfarrell](https://github.com/willfarrell)
 - [@simonbs](https://github.com/simonbs) - [alfred-youtube-workflow](https://github.com/simonbs/alfred-youtube-workflow)
 - [David Ferguson](http://dferg.us/) - [Blog Post](http://dferg.us/youtube-download-alfred-2-workflow/)
 
