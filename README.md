@@ -1,4 +1,4 @@
-YouTube ([Download v1.4](https://raw.github.com/willfarrell/alfred-youtube-workflow/master/YouTube.alfredworkflow))
+YouTube ([Download v1.5](https://raw.github.com/willfarrell/alfred-youtube-workflow/master/YouTube.alfredworkflow))
 =====================
 
 Search and Download YouTube Videos
@@ -36,7 +36,7 @@ Typing `youtube` followed by a search query will show the results for the query.
 - `yt mostdiscussed` Shows the most discussed videos.
 - `yt mostresponded` Shows the videos with most responds.
 - `yt recentlyfeatured` Shows videos which have recently been featured.
-- `youtube-download {query}` - what happens with search query
+- `yt-download {query}` - what happens with search query
 
 If you find yourself having a hard time remembering the commands, remember that they will show up in autocompletion if you type `yt`.
 
