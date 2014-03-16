@@ -25,7 +25,7 @@ Typing `youtube` followed by a search query will show the results for the query.
 ![alt text][download]
 
 ## Commands
-- `youtube {query}` or `yt {query}` - Searches YouTube for videos matching the query.
+- `yt {query}` - Searches YouTube for videos matching the query.
 - `yt c|channels {query}` - Searches for channels.
 - `yt cv|channelvideos {query}` - Shows videos for the specified channel.
 - `yt toprated` - Shows the top rated videos.
@@ -39,6 +39,10 @@ Typing `youtube` followed by a search query will show the results for the query.
 - `yt-download {query}` - what happens with search query
 
 If you find yourself having a hard time remembering the commands, remember that they will show up in autocompletion if you type `yt`.
+
+## Action Modifier
+- Hold `alt` to download the video
+- Hold `control` to download the audio from the video
 
 ## Contributors
 - [@willfarrell](https://github.com/willfarrell)
