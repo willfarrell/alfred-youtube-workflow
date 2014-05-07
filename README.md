@@ -1,4 +1,4 @@
-YouTube ([Download v1.5](https://raw.github.com/willfarrell/alfred-youtube-workflow/master/YouTube.alfredworkflow))
+YouTube ([Download v1.6](https://raw.github.com/willfarrell/alfred-youtube-workflow/master/YouTube.alfredworkflow))
 =====================
 
 Search and Download YouTube Videos
@@ -6,11 +6,21 @@ Search and Download YouTube Videos
 ## Requirements
 1. [Alfred App v2](http://www.alfredapp.com/#download)
 1. [Alfred Powerpack](https://buy.alfredapp.com/)
+1. Homebrew w/ youtube-dl & ffmpeg
 
 ## Installing
 1. Click the download buttons below
 2. Double-click to import into Alfred 2
 3. Review the workflow to add custom Hotkeys
+
+## Setting up brew
+```bash
+# Install Homebrew
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+
+brew install ffmpeg
+brew install youtube-dl
+```
 
 ## Updating
 Run the [Alleyoop Workflow](http://www.alfredforum.com/topic/1582-alleyoop-update-alfred-workflows/) using the keyword `oop`. If you're not comfortable with Alleyoop, **star & watch this repo** to keep up to date on new versions and additional workflows.
