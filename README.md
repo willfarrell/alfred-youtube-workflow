@@ -1,4 +1,4 @@
-YouTube ([Download v1.6](https://raw.github.com/willfarrell/alfred-youtube-workflow/master/YouTube.alfredworkflow))
+YouTube ([Download v1.7](https://raw.github.com/willfarrell/alfred-youtube-workflow/master/YouTube.alfredworkflow))
 =====================
 
 Search and Download YouTube Videos
@@ -7,6 +7,7 @@ Search and Download YouTube Videos
 1. [Alfred App v2](http://www.alfredapp.com/#download)
 1. [Alfred Powerpack](https://buy.alfredapp.com/)
 1. Homebrew w/ youtube-dl & ffmpeg
+1. [VLC](http://www.videolan.org/vlc/download-macosx.html) if you want streaming with this application
 
 ## Installing
 1. Click the download buttons below
@@ -53,10 +54,12 @@ If you find yourself having a hard time remembering the commands, remember that 
 ## Action Modifier
 - Hold `alt` to download the video
 - Hold `control` to download the audio from the video
+- Hold `cmd` to play the video with VLC
 
 ## Contributors
 - [@willfarrell](https://github.com/willfarrell)
 - [@simonbs](https://github.com/simonbs) - [alfred-youtube-workflow](https://github.com/simonbs/alfred-youtube-workflow)
+- [@adrianbs](https://github.com/adrianbs) - [Play with VLC](https://github.com/adrianbs/alfred-youtube-workflow/compare/vlc_play)
 - [David Ferguson](http://dferg.us/) - [Blog Post](http://dferg.us/youtube-download-alfred-2-workflow/)
 
 [channels]: ./screenshots/channels.png "Channels"
