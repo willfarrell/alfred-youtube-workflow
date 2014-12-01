@@ -59,7 +59,7 @@ If you find yourself having a hard time remembering the commands, remember that 
 ## Contributors
 - [@willfarrell](https://github.com/willfarrell)
 - [@simonbs](https://github.com/simonbs) - [alfred-youtube-workflow](https://github.com/simonbs/alfred-youtube-workflow)
-- [@adrianbs](https://github.com/adrianbs) - [Play with VLC](https://github.com/simonbs/alfred-youtube-workflow)
+- [@adrianbs](https://github.com/adrianbs) - [Play with VLC](https://github.com/adrianbs/alfred-youtube-workflow/compare/vlc_play)
 - [David Ferguson](http://dferg.us/) - [Blog Post](http://dferg.us/youtube-download-alfred-2-workflow/)
 
 [channels]: ./screenshots/channels.png "Channels"
