@@ -1,4 +1,4 @@
-YouTube ([Download v1.7](https://raw.github.com/willfarrell/alfred-youtube-workflow/master/YouTube.alfredworkflow))
+YouTube ([Download v1.8](https://raw.github.com/willfarrell/alfred-youtube-workflow/master/YouTube.alfredworkflow))
 =====================
 
 Search and Download YouTube Videos
